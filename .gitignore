@@ -1,0 +1,10 @@
+#_pychache_
+__pychache__
+*.py[cod]
+
+#ide folder
+venv
+.idea
+
+#test file
+*test*
